@@ -4,9 +4,6 @@ const p5Image = new Image('p5.png');
 
 const sketch = new Sketch();
 
-sketch.setup = function () {
-};
-
 sketch.draw = function () {
     Sketch.graphics.background(21);
 
