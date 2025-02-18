@@ -10,17 +10,22 @@ It uses most features over some examples.
 git clone git@github.com:Rodak123/p5-webpack-kit-template.git
 ```
 
-2. Install npm packages
+3. Go inside the project (you can rename it)
+```shell
+cd p5-webpack-kit-template
+```
+
+4. Install npm packages
 ```shell
 npm install
 ```
 
-3. Start the development server
+5. Start the development server
 ```shell
 npm run start
 ```
 
-4. Build the final project
+6. Build the final project
 ```shell
 npm run build
 ```
